@@ -1,1 +1,1 @@
-print ("Tien - Local 1 - Upload to Remote")
+print ("Tien - Edit Remonte 1 - Pull to Local")
