@@ -1,1 +1,1 @@
-print ("Tien - Edit Remonte 1 - Pull to Local")
+print ("Tien - Edit Local 2 - Push to Remote 2")
