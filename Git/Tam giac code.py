@@ -9,7 +9,7 @@ ELSE
         IF a = b or b = c or c=a THEN
             PRINT "Tam giác cân"
         ELSE
-            IF a^2 = b^2 + c^2 or b^2 =  a^2 + c^2 or c^2 = a^2 + b^2 THEN
+            IF a^2 = b^2 + c^2 or b^2 = a^2 + c^2 or c^2 = a^2 + b^2 THEN
                 PRINT "Tam giác vuông"
             ELSE
                 PRINT "Tam giác thường"
